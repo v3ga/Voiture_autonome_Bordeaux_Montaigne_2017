@@ -16,5 +16,6 @@ Voiture autonome
   * chargement de données « statiques » et interprétation dans p5js
   * chargement de données en temps réel via une API ([interface de programmation](https://fr.wikipedia.org/wiki/Interface_de_programmation))
 * Découverte du portail [OpenData de Bordeaux Métropole](https://data.bordeaux-metropole.fr/)
+ * exemple : [traffic temps réel](https://data.bordeaux-metropole.fr/dev/exemples/format_csv.php?) dans Bordeaux 
 
 ## Cours #02 — vendredi 20 octobre
