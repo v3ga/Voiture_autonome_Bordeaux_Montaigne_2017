@@ -1,7 +1,8 @@
 Voiture autonome
 ===============================================
 
-## Cours #01 — Lundi 16 octobre 2017
+## Cours #01 — lundi 16 octobre 2017 (M2) + vendredi 20 octobre (M1)
+
 * notions de HTML + CSS + Javascript
   * structure d'une page web (head + body)
   * mise en forme avec les [styles CSS](https://www.w3schools.com/html/html_css.asp)
@@ -30,5 +31,3 @@ Voiture autonome
 * Daniel Shiffman - [1.1: Introduction - p5.js Tutorial](https://www.youtube.com/watch?v=8j0UDiN7my4)
 * Daniel Shiffman - [10.5: Working with APIs in Javascript - p5.js Tutorial](https://www.youtube.com/watch?v=ecT42O6I_WI)
 * [OpenData Bordeaux Métropole](https://data.bordeaux-metropole.fr/)
-
-## Cours #02 — vendredi 20 octobre
