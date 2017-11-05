@@ -16,14 +16,6 @@ Voiture autonome
     * inspection de la structure d'une page
     * console javascript
     * outils de développements pour mobile
-* Installation d'un serveur en local 
-  * Avec WAMP sur Windows et MAMP sur Mac ( [instructions avec p5js](https://github.com/processing/p5.js/wiki/Local-server) )
-* Récupération de données : 
-  * formats de données : texte, CSV, XML, JSON
-  * chargement de données « statiques » et interprétation dans p5js
-  * chargement de données en temps réel via une API ([interface de programmation](https://fr.wikipedia.org/wiki/Interface_de_programmation))
-* Découverte du portail [OpenData de Bordeaux Métropole](https://data.bordeaux-metropole.fr/)
-  * exemple : [traffic temps réel](https://data.bordeaux-metropole.fr/dev/exemples/format_csv.php?) dans Bordeaux 
 
 # Liens
 * [p5js](https://p5js.org/)
@@ -31,3 +23,18 @@ Voiture autonome
 * Daniel Shiffman - [1.1: Introduction - p5.js Tutorial](https://www.youtube.com/watch?v=8j0UDiN7my4)
 * Daniel Shiffman - [10.5: Working with APIs in Javascript - p5.js Tutorial](https://www.youtube.com/watch?v=ecT42O6I_WI)
 * [OpenData Bordeaux Métropole](https://data.bordeaux-metropole.fr/)
+
+## Cours #02 - vendredi 20 octobre
+À rattraper
+
+## Cours #03 - lundi 6 novembre
+* Installation d'un serveur en local 
+  * Avec WAMP sur Windows et MAMP sur Mac ( [instructions avec p5js](https://github.com/processing/p5.js/wiki/Local-server) )
+* Récupération de données : 
+  * formats de données : texte, CSV, XML, JSON
+  * chargement de données « statiques » : (fichier CSV de la quantité de co2 émis depuis 1751)[https://datahub.io/core/co2-fossil-global]
+    * chargement avec p5js
+    * lecture des données, interaction canvas <-> dom via (p5.dom)[https://p5js.org/reference/#/libraries/p5.dom]
+    * dessin des données et interaction souris
+    
+
