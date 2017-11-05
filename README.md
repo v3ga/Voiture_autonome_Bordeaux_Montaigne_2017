@@ -32,9 +32,9 @@ Voiture autonome
   * Avec WAMP sur Windows et MAMP sur Mac ( [instructions avec p5js](https://github.com/processing/p5.js/wiki/Local-server) )
 * Récupération de données : 
   * formats de données : texte, CSV, XML, JSON
-  * chargement de données « statiques » : (fichier CSV de la quantité de co2 émis depuis 1751)[https://datahub.io/core/co2-fossil-global]
+  * chargement de données « statiques » : [fichier CSV de la quantité de co2 émis depuis 1751](https://datahub.io/core/co2-fossil-global)
     * chargement avec p5js
-    * lecture des données, interaction canvas <-> dom via (p5.dom)[https://p5js.org/reference/#/libraries/p5.dom]
+    * lecture des données, interaction canvas <-> dom via [p5.dom](https://p5js.org/reference/#/libraries/p5.dom)
     * dessin des données et interaction souris
     
 
