@@ -1,6 +1,26 @@
 Voiture autonome
 ===============================================
 
+### Méthodologie de travail
+1. Ouvrir le terminal
+ - :point_right: Mac /  cmd + barre espace et taper « terminal »
+ - :point_right: PC /  windows puis rechercher et taper « cmd »
+
+2. Se déplacer dans le dossier de travail avec la commande **cd** (change directory). Vous pouvez taper **cd** puis **glisser déposer le dossier** dans le terminal, son chemin entier va s'inscrire. 
+
+3. Démarrer le serveur avec la commande 
+```
+http-server -c-1
+```
+
+4. Copier-coller une des deux adresses dans votre navigateur pour accéder à l'arborescence de vos dossiers de sketchs. Ne fermez pas la fenêtre du terminal, sinon le serveur s'arrêtera.
+```
+http://127.0.0.1:8080
+```
+
+![terminal avec les commandes cd et http-server](cours03/img/terminal.png)
+
+
 ## Cours #01 — lundi 16 octobre 2017 (M2) + vendredi 20 octobre (M1)
 
 * notions de HTML + CSS + Javascript
@@ -29,7 +49,7 @@ Voiture autonome
 
 ## Cours #03 - lundi 6 novembre
 * Installation d'un serveur en local 
-  * Avec WAMP sur Windows et MAMP sur Mac ( [instructions avec p5js](https://github.com/processing/p5.js/wiki/Local-server) )
+  * avec node http-server ( [instructions avec p5js, voir la deuxième option](https://github.com/processing/p5.js/wiki/Local-server) )
 * Récupération de données : 
   * formats de données : texte, CSV, XML, JSON
   * chargement de données « statiques » : [fichier CSV de la quantité de co2 émis depuis 1751](https://datahub.io/core/co2-fossil-global)
@@ -37,4 +57,4 @@ Voiture autonome
     * lecture des données, interaction canvas <-> dom via [p5.dom](https://p5js.org/reference/#/libraries/p5.dom)
     * dessin des données et interaction souris
     
-
+![Capture d'écran du sketch cours03/04-data-csv-co2-load-draw-interactive](cours03/04-data-csv-co2-load-draw-interactive/img/04-data-csv-co2-load-draw-interactive_capture.jpg)
