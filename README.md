@@ -1,7 +1,7 @@
 Voiture autonome
 ===============================================
 
-### Méthodologie de travail
+### Méthodes de travail
 1. Ouvrir le terminal
  - :point_right: Mac /  cmd + barre espace et taper « terminal »
  - :point_right: PC /  windows puis rechercher et taper « cmd »
