@@ -61,11 +61,11 @@ http://127.0.0.1:8080
 
 ## Cours #04 - lundi 13 novembre
 * Retour sur les notions abordées la semaine précédente : 
- * [boucles for](https://www.youtube.com/watch?v=cnRD9o6odjk), [conditions](https://www.youtube.com/watch?v=r2S7j54I68c), [variables](https://www.youtube.com/watch?v=Bn_B3T_Vbxs).
+  * [boucles for](https://www.youtube.com/watch?v=cnRD9o6odjk), [conditions](https://www.youtube.com/watch?v=r2S7j54I68c), [variables](https://www.youtube.com/watch?v=Bn_B3T_Vbxs).
 * Intégration de cartes avec des données dans une page 
- * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr)
- * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub)
-* Fun : 
+  * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr)
+  * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub)
+* Fun : commande vocale avec une carte 
 # Liens
 * [sketch p5.js en plein écran](http://gildasp.fr/exp/P5js-fullscreen/)
 
