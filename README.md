@@ -2,6 +2,9 @@ Voiture autonome
 ===============================================
 
 ### Méthodes de travail
+
+(En référence à [la notice d'installation](https://github.com/processing/p5.js/wiki/Local-server) sur le wiki de p5.js)
+
 1. Ouvrir le terminal
  - :point_right: Mac /  cmd + barre espace et taper « terminal »
  - :point_right: PC /  windows puis rechercher et taper « cmd »
@@ -63,10 +66,11 @@ http://127.0.0.1:8080
 * Retour sur les notions abordées la semaine précédente : 
   * [boucles for](https://www.youtube.com/watch?v=cnRD9o6odjk), [conditions](https://www.youtube.com/watch?v=r2S7j54I68c), [variables](https://www.youtube.com/watch?v=Bn_B3T_Vbxs).
 * Intégration de cartes avec des données dans une page 
-  * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr)
-  * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub)
+  * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr) — [https://developers.google.com/maps/documentation/javascript/get-api-key?hl=Fr](lien pour obtenir une clé API)
+  * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub) - [https://data.bordeaux-metropole.fr/key.php](lien pour obtenir une clé API)
 * Fun : commande vocale avec une carte 
+
 # Liens
 * [sketch p5.js en plein écran](http://gildasp.fr/exp/P5js-fullscreen/)
-
+* [New York Times : Life after driving](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-future-autonomous-car-20-percent-sex-death-liability.html) « road rage against the machine will boil over »
 
