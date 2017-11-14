@@ -66,8 +66,8 @@ http://127.0.0.1:8080
 * Retour sur les notions abordées la semaine précédente : 
   * [boucles for](https://www.youtube.com/watch?v=cnRD9o6odjk), [conditions](https://www.youtube.com/watch?v=r2S7j54I68c), [variables](https://www.youtube.com/watch?v=Bn_B3T_Vbxs).
 * Intégration de cartes avec des données dans une page 
-  * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr) — [https://developers.google.com/maps/documentation/javascript/get-api-key?hl=Fr](lien pour obtenir une clé API)
-  * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub) - [https://data.bordeaux-metropole.fr/key.php](lien pour obtenir une clé API)
+  * exemples avec [Google Maps](https://developers.google.com/maps/?hl=fr) — [lien pour obtenir une clé API](https://developers.google.com/maps/documentation/javascript/get-api-key?hl=Fr)
+  * exemples avec le système de [cartographie et de données de Bordeaux Métropole.](https://data.bordeaux-metropole.fr/apicub) — [lien pour obtenir une clé API](https://data.bordeaux-metropole.fr/key.php)
 * Fun : commande vocale avec une carte 
 
 # Liens
