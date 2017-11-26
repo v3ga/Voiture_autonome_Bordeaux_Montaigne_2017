@@ -78,7 +78,7 @@ http://127.0.0.1:8080
 * Mise en ligne d'un sketch sur un serveur FTP
   * téléchargement de [FileZilla](https://filezilla-project.org/download.php?type=client) (client FTP)
     * configuration pour se connecter au ftp et déposer des fichiers (html/css/js) :point_right: voir la capture d'écran
-    * connexion à l'adresse :point_right: [http://www.v3ga.net/~bplv_masterdis](www.v3ga.net/~bplv_masterdis)
+    * connexion à l'adresse :point_right: [www.v3ga.net/~bplv_masterdis](http://www.v3ga.net/~bplv_masterdis/)
 * Mise en page **responsive** pour mobile + desktop à traver les [CSS media queries](https://www.w3schools.com/css/css3_mediaqueries.asp).
   * voir aussi ce lien sur [alsa creations](https://www.alsacreations.com/article/lire/930-css3-media-queries.html)
   * adaptation du sketch *particules* à ce contexte, cela nécéssite de tenir compte du redimensionnement dynamique de l'élément canvas.
