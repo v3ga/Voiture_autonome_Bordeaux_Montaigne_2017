@@ -1,0 +1,61 @@
+/*
+
+Les styles suivants sont valables quelle que soit la plateforme (desktop, mobile, ...)
+
+*/
+
+body
+{
+	border: 		0;
+	margin: 		10px;
+	font-family:	Arial;
+}
+
+img
+{
+	width:			100%;
+}
+
+#menu,#infos
+{
+	border:			1px solid #EEE;
+}
+
+#container
+{
+	position: relative;
+	overflow: hidden;
+}
+
+#column01, #column02
+{
+  	-moz-box-sizing: 	border-box; 
+  	-webkit-box-sizing: border-box; 
+  	box-sizing: 		border-box;
+
+  	float:			left;
+	width:			50%;
+	padding-right:	10px;
+	border:			1px solid #EEE;
+}
+
+#infos
+{
+	height:			50px;
+}
+
+
+/*
+
+Les styles suivants sont valables quelle que soit la plateforme (desktop, mobile, ...)
+
+*/
+
+@media (max-width : 640px) 
+{
+	#column01, #column02
+	{
+		float : none;
+		width:	100%;
+	}
+}
