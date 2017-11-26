@@ -82,5 +82,7 @@ http://127.0.0.1:8080
   * voir aussi ce lien sur [alsa creations](https://www.alsacreations.com/article/lire/930-css3-media-queries.html)
   * adaptation du sketch *particules* à ce contexte, cela nécéssite de tenir compte du redimensionnement dynamique de l'élément canvas.
   
-![Capture d'écran FileZilla](cours05/img/filezilla_ftp_config.png.jpg)
+![Capture d'écran FileZilla](cours05/img/filezilla_ftp_config.png)
+
+## Cours #06 - date à déterminer
 
