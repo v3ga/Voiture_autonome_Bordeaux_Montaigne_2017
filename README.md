@@ -74,3 +74,13 @@ http://127.0.0.1:8080
 * [sketch p5.js en plein écran](http://gildasp.fr/exp/P5js-fullscreen/)
 * [New York Times : Life after driving](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-future-autonomous-car-20-percent-sex-death-liability.html) « road rage against the machine will boil over »
 
+## Cours #05 - lundi 27 novembre
+* Mise en ligne d'un sketch sur un serveur FTP
+  * téléchargement de [FileZilla](https://filezilla-project.org/download.php?type=client) (client FTP)
+    * configuration pour se connecter au ftp :point_right: voir la capture d'écran
+* Mise en page **responsive** pour mobile + desktop à traver les [CSS media queries](https://www.w3schools.com/css/css3_mediaqueries.asp).
+  * voir aussi ce lien sur [alsa creations](https://www.alsacreations.com/article/lire/930-css3-media-queries.html)
+  * adaptation du sketch *particules* à ce contexte, cela nécéssite de tenir compte du redimensionnement dynamique de l'élément canvas.
+  
+![Capture d'écran FileZilla](cours05/img/filezilla_ftp_config.png.jpg)
+
