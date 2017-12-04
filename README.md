@@ -85,5 +85,6 @@ http://127.0.0.1:8080
   
 ![Capture d'écran FileZilla](cours05/img/filezilla_ftp_config.png)
 
-## Cours #06 - date à déterminer
+## Cours #06 - 5 décembre 
+* Atelier autour du projet à remettre pour le **8 janvier 2017**
 
