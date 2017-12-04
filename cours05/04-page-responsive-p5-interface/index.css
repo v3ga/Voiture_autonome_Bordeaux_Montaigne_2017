@@ -35,8 +35,12 @@ img
 
   	float:			left;
 	width:			50%;
+	border:			1px solid #EEE;
+}
+
+#column02
+{
 	padding-right:	10px;
-	border:			1px solid #000;
 }
 
 #infos
