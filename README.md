@@ -86,5 +86,38 @@ http://127.0.0.1:8080
 ![Capture d'écran FileZilla](cours05/img/filezilla_ftp_config.png)
 
 ## Cours #06 - 5 décembre 
-* Atelier autour du projet à remettre pour le **8 janvier 2017**
+* Atelier autour du projet à remettre pour le **8 janvier 2018**. Un **scénario / note d'intention** seront à me remettre au plus tard **le 22 décembre**. 
+ * **à produire** : une application mobile qui peut ou pourrait s'insérer dans votre scénario de fiction. Cette application doit incorporer un système de commande vocale pour effectuer une ou plusieurs actions au sein de cette application.    
+ * **L'évaluation** se portera sur : 
+   * *l'originalité* et la pertinence de la proposition.
+   * *la création graphique* / mise en page. 
+   * *la qualité technique* de l'application (ne pas se contenter de reprendre le template tel quel)
 
+Le projet peut se faire par groupe, idéalement bien sur les groupes qui se sont constitués pour le projet design fiction mais ce n'est pas obligatoire. 
+
+Je serai disponible pour discuter et vous accompagner techniquement sur ce projet (Skype / studio 2Roqs / université).
+Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez-vous. Je ne serai pas disponible du 23 décembre au 1er janvier. 
+
+## À venir au S2
+* initiation à l'intelligence artificielle, histoire, évolution des algorithmes. Quelques liens / termes / notions à vrac que je classerai au fur et à mesure des cours.
+
+### Histoire
+* [Marvin Minsky](https://fr.wikipedia.org/wiki/Marvin_Minsky)
+* Yann LeCun / [The MNIST Database](http://yann.lecun.com/exdb/mnist/) 
+* [Perceptron](https://fr.wikipedia.org/wiki/Perceptron)
+* Réseau de neurones, Deep Learning, apprentissage supervisé.
+
+### Algorithmes
+* [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
+ * [interface pour node.js](https://github.com/moovel/node-yolo) 
+ * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
+
+### API en ligne
+* [deeplearn.js](https://deeplearnjs.org/)
+* [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne.
+* [Clairfai](https://clarifai.com/) pour la détection d'objets d'une image. 
+
+### Artistes
+* [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
+* [Kyle MacDonald](http://www.kylemcdonald.net/) 
+ * [Neural talk and walk](https://vimeo.com/146492001)
