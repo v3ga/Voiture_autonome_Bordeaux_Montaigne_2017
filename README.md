@@ -109,8 +109,8 @@ Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez
 
 ### Algorithmes
 * [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
- * [interface pour node.js](https://github.com/moovel/node-yolo) 
- * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
+  * [interface pour node.js](https://github.com/moovel/node-yolo) 
+  * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
 
 ### API en ligne
 * [deeplearn.js](https://deeplearnjs.org/)
@@ -120,4 +120,4 @@ Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez
 ### Artistes
 * [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
 * [Kyle MacDonald](http://www.kylemcdonald.net/) 
- * [Neural talk and walk](https://vimeo.com/146492001)
+  * [Neural talk and walk](https://vimeo.com/146492001)
