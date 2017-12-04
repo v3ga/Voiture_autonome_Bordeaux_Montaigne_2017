@@ -96,7 +96,9 @@ http://127.0.0.1:8080
 Le projet peut se faire par groupe, idéalement bien sur les groupes qui se sont constitués pour le projet design fiction mais ce n'est pas obligatoire. 
 
 Je serai disponible pour discuter et vous accompagner techniquement sur ce projet (Skype / studio 2Roqs / université).
-Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez-vous. Je ne serai pas disponible du 23 décembre au 1er janvier. 
+Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez-vous. Je ne serai pas disponible du 23 décembre au 1er janvier.
+
+Le template de projet est disponible dans le dossier [cours06](/cours06). 
 
 ## À venir au S2
 * initiation à l'intelligence artificielle, histoire, évolution des algorithmes. Quelques liens / termes / notions à vrac que je classerai au fur et à mesure des cours.
@@ -115,7 +117,7 @@ Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez
 ### API en ligne
 * [deeplearn.js](https://deeplearnjs.org/)
 * [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne.
-* [Clairfai](https://clarifai.com/) pour la détection d'objets d'une image. 
+* [Clarifai](https://clarifai.com/) pour la détection d'objets d'une image. 
 
 ### Artistes
 * [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
