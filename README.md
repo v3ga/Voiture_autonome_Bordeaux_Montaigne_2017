@@ -119,6 +119,9 @@ Le template de projet est disponible dans le dossier [cours06](/cours06).
 * [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne.
 * [Clarifai](https://clarifai.com/) pour la détection d'objets d'une image. 
 
+### Hardware
+* [AIY Vision Kit](https://blog.google/topics/machine-learning/introducing-aiy-vision-kit-make-devices-see/)
+
 ### Artistes
 * [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
 * [Kyle MacDonald](http://www.kylemcdonald.net/) 
