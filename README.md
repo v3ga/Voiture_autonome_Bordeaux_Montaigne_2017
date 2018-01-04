@@ -130,17 +130,17 @@ Le template de projet est disponible dans le dossier [cours06](/cours06).
 
 ## Projets
 ### Humanergie
-*Mégane Richard, Lucas Bramas, Alfian Sulaiman*
+*Mégane Richard, Lucas Bramas, Alfian Sulaiman*<br>
 [Présentation du projet](/projets/Humanergie.pdf)
 
 ### Ellipsis
-*Quentin, Marie et Claire*
+*Quentin Renaud, Marie Gaumer et Claire Ballester*<br>
 [Présentation du projet](/projets/Ellipsis.pdf)
 
 ### Siplay
-*Margot Marraud des Grottes, Olivier Hordonneau, Noémie Antoine*
+*Margot Marraud des Grottes, Olivier Hordonneau, Noémie Antoine*<br>
 [Présentation du projet](/projets/Siplay.pdf)
 
 ### Smile to me
-*Bérengère, Laura et Sandrine*
+*Bérengère Godefroy, Laura Vidoni et Sandrine Gonzales*<br>
 [Présentation du projet](/projets/Smile_to_me.pdf)
