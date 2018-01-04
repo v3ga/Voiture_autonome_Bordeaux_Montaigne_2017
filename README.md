@@ -142,9 +142,9 @@ Le template de projet est disponible dans le dossier [cours06](/cours06).
 [Présentation du projet](/projets/Siplay.pdf)
 
 ### Smile to me
-*Bérengère Godefroy, Laura Vidoni et Sandrine Gonzales*<br>
+*Bérengère Godefroy, Laura Vidoni, Sandrine Gonzales*<br>
 [Présentation du projet](/projets/Smile_to_me.pdf)
 
 ### Voltea viralis
-*Laurine Farjanel, Damien Andrieu, Sylvain Colin*
+*Laurine Farjanel, Damien Andrieu, Sylvain Colin*<br>
 [Présentation du projet](/projets/Voltea_Viralis.pdf)
