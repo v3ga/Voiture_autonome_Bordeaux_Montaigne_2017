@@ -126,3 +126,21 @@ Le template de projet est disponible dans le dossier [cours06](/cours06).
 * [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
 * [Kyle MacDonald](http://www.kylemcdonald.net/) 
   * [Neural talk and walk](https://vimeo.com/146492001)
+
+
+## Projets
+### Humanergie
+*Mégane Richard, Lucas Bramas, Alfian Sulaiman*
+[Présentation du projet](/projets/Humanergie.pdf)
+
+### Ellipsis
+*Quentin, Marie et Claire*
+[Présentation du projet](/projets/Ellipsis.pdf)
+
+### Siplay
+*Margot Marraud des Grottes, Olivier Hordonneau, Noémie Antoine*
+[Présentation du projet](/projets/Siplay.pdf)
+
+### Smile to me
+*Bérengère, Laura et Sandrine*
+[Présentation du projet](/projets/Smile_to_me.pdf)
