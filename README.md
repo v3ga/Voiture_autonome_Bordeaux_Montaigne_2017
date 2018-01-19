@@ -129,22 +129,54 @@ Le template de projet est disponible dans le dossier [cours06](/cours06).
 
 
 ## Projets
+
+Les notes et mes remarques ici : https://github.com/v3ga/Voiture_autonome_Bordeaux_Montaigne_2017/blob/master/projets/Notes.pdf
+
 ### Humanergie
 *Mégane Richard, Lucas Bramas, Alfian Sulaiman*<br>
-[Présentation du projet](/projets/Humanergie.pdf)
+[Présentation du projet](/projets/Humanergie.pdf)<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Humanergie/pages/page0.html)<br />
+
+![Humanergie](projets/Humanergie.png)
 
 ### Ellipsis
 *Quentin Renaud, Marie Gaumer et Claire Ballester*<br>
-[Présentation du projet](/projets/Ellipsis.pdf)
+[Présentation du projet](/projets/Ellipsis.pdf)<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Ellipsis/index.html)<br />
+[Video](http://www.v3ga.net/cours/p5js/montaigne/2017/Ellipsis/Ellipsis.m4v)
+
+<img src="projets/Ellipsis.png" width="400" />
 
 ### Siplay
 *Margot Marraud des Grottes, Olivier Hordonneau, Noémie Antoine*<br>
-[Présentation du projet](/projets/Siplay.pdf)
+[Présentation du projet](/projets/Siplay.pdf)<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/SIPlay/labyrinthe/labyrinthe.html)<br />
+
+![SIPlay 1](projets/SIPlay01.png)
+![SIPlay 2](projets/SIPlay02.png)
+
+
+### Linco
+*Charline Deregnaucourt, Lucas De Pedro, Damien Blanchard*<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Linco/index.html)<br />
+*(L'interface met du temps à charger à cause de la vidéo)*<br />
+
+![Linco](projets/Linco.jpg)
+![LincoVehicule](projets/LincoVehicule.jpg)
 
 ### Smile to me
 *Bérengère Godefroy, Laura Vidoni, Sandrine Gonzales*<br>
-[Présentation du projet](/projets/Smile_to_me.pdf)
+[Présentation du projet](/projets/Smile_to_me.pdf)<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Smile_to_me/index.html)<br />
+
+![Smile](projets/Smile_to_me.png)
+
 
 ### Voltea viralis
 *Laurine Farjanel, Damien Andrieu, Sylvain Colin*<br>
-[Présentation du projet](/projets/Voltea_Viralis.pdf)
+[Présentation du projet](/projets/Voltea_Viralis.pdf)<br />
+[Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Voltea_Viralis/index.html)<br />
+
+<img src="projets/Voltea_Viralis.png" width="600" />
+
+
