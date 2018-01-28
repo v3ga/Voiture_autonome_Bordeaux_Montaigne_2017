@@ -186,12 +186,12 @@ Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conferen
 
 ### Algorithmes
 * [P5ML.js](https://itpnyu.github.io/p5-deeplearn-js/docs/getting-started.html)
- * LTSM : Long Short Term Memory networks
- * KNN : K-nearest neighbors
- * CNN : convolutionnal neural network
- * [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
-  * [interface pour node.js](https://github.com/moovel/node-yolo) 
-  * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
+  * LTSM : Long Short Term Memory networks
+  * KNN : K-nearest neighbors
+  * CNN : convolutionnal neural network
+  * [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
+    * [interface pour node.js](https://github.com/moovel/node-yolo) 
+    * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
 * [deeplearn.js](https://deeplearnjs.org/)
 * [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne, qui fait partie [des expérimentations en ligne](https://experiments.withgoogle.com/ai) de Google sur l'IA.
 * [Clarifai](https://clarifai.com/) pour la détection d'objets d'une image. 
