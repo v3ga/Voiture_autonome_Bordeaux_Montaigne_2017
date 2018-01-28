@@ -100,34 +100,6 @@ Il faudra juste **me prévenir à l'avance** pour que l'on convienne d'un rendez
 
 Le template de projet est disponible dans le dossier [cours06](/cours06). 
 
-## À venir au S2
-* initiation à l'intelligence artificielle, histoire, évolution des algorithmes. Quelques liens / termes / notions à vrac que je classerai au fur et à mesure des cours.
-
-### Histoire
-* [Marvin Minsky](https://fr.wikipedia.org/wiki/Marvin_Minsky)
-* Yann LeCun / [The MNIST Database](http://yann.lecun.com/exdb/mnist/) 
-* [Perceptron](https://fr.wikipedia.org/wiki/Perceptron)
-* Réseau de neurones, Deep Learning, apprentissage supervisé.
-
-### Algorithmes
-* [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
-  * [interface pour node.js](https://github.com/moovel/node-yolo) 
-  * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
-
-### API en ligne
-* [deeplearn.js](https://deeplearnjs.org/)
-* [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne.
-* [Clarifai](https://clarifai.com/) pour la détection d'objets d'une image. 
-
-### Hardware
-* [AIY Vision Kit](https://blog.google/topics/machine-learning/introducing-aiy-vision-kit-make-devices-see/)
-
-### Artistes
-* [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
-* [Kyle MacDonald](http://www.kylemcdonald.net/) 
-  * [Neural talk and walk](https://vimeo.com/146492001)
-
-
 ## Projets
 
 Les notes et mes remarques ici : https://github.com/v3ga/Voiture_autonome_Bordeaux_Montaigne_2017/blob/master/projets/Notes.pdf
@@ -178,5 +150,59 @@ Les notes et mes remarques ici : https://github.com/v3ga/Voiture_autonome_Bordea
 [Application en ligne](http://www.v3ga.net/cours/p5js/montaigne/2017/Voltea_Viralis/index.html)<br />
 
 <img src="projets/Voltea_Viralis.png" width="600" />
+
+
+## Lundi 29 janvier 2018
+**« AI is the new electricity »** — [Andrew Ng](https://fr.wikipedia.org/wiki/Andrew_Ng)
+
+Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conference_Stereolux_IA_creativite
+
+### Définitions
+* algorithme
+ * [algorithme des colonies de fourmis](https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
+* apprentissage (machine learning)
+* apprentissage profond (deep learning)
+* apprentissage supervisé et non supervisé
+
+#### Quelques personnages clés
+* [Charles Babbage](https://fr.wikipedia.org/wiki/Charles_Babbage) & [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace)
+* [Alan Turing](https://fr.wikipedia.org/wiki/Alan_Turing)
+ * [Machine de Turing](http://morphett.info/turing/turing.html). 
+   * exemple : 54 (101011) + 43 (101011) = 97 ([1100001](http://coolconversion.com/math/binary-octal-hexa-decimal/How-to-Convert_binary__110110_in_decimal_%3F))
+   * [Le test de Turing](https://fr.wikipedia.org/wiki/Test_de_Turing) est une proposition de test d’intelligence artificielle fondée sur la faculté d'une machine à imiter la conversation humaine.
+* Frank Rosenblatt
+  * [Perceptron](https://fr.wikipedia.org/wiki/Perceptron)
+* [Marvin Minsky](https://fr.wikipedia.org/wiki/Marvin_Minsky)
+  * « L'intelligence artificielle est la science de faire faire à des machines des choses qui demanderaient de l'intelligence si elles étaient faites par des êtres humains »
+  * [Perceptrons](https://mitpress.mit.edu/books/perceptrons)
+* Yann LeCun
+  * [The MNIST Database](http://yann.lecun.com/exdb/mnist/)
+  * [Convolutional Network Demo from 1993](https://www.youtube.com/watch?v=FwFduRA_L6Q)
+  * [Démonstration avec P5ML](https://itpnyu.github.io/p5-deeplearn-js/docs/neural-network-example.html)
+
+### À visionner
+* [Le deep learning — Science étonnante #27](https://www.youtube.com/watch?v=trWrEWfhTVg)
+* [But what *is* a Neural Network? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+
+### Algorithmes
+* [P5ML.js](https://itpnyu.github.io/p5-deeplearn-js/docs/getting-started.html)
+ * LTSM : Long Short Term Memory networks
+ * KNN : K-nearest neighbors
+ * CNN : convolutionnal neural network
+ * [YOLO : Real time object detection](https://fr.wikipedia.org/wiki/Perceptron)
+  * [interface pour node.js](https://github.com/moovel/node-yolo) 
+  * [interface pour openframeworks](https://github.com/mrzl/ofxDarknet)
+* [deeplearn.js](https://deeplearnjs.org/)
+* [Teachable machine](https://teachablemachine.withgoogle.com/) pour entrainer un réseau de neurone en ligne, qui fait partie [des expérimentations en ligne](https://experiments.withgoogle.com/ai) de Google sur l'IA.
+* [Clarifai](https://clarifai.com/) pour la détection d'objets d'une image. 
+
+### Hardware
+* [AIY Vision Kit](https://blog.google/topics/machine-learning/introducing-aiy-vision-kit-make-devices-see/)
+
+### Artistes
+* [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
+* [Kyle MacDonald](http://www.kylemcdonald.net/) 
+  * [Neural talk and walk](https://vimeo.com/146492001)
+
 
 
