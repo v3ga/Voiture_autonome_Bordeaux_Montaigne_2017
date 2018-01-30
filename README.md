@@ -159,17 +159,17 @@ Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conferen
 
 ### Définitions
 * algorithme
- * [algorithme des colonies de fourmis](https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
+  * [algorithme des colonies de fourmis](https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
 * apprentissage (machine learning)
-* apprentissage profond (deep learning)
-* apprentissage supervisé et non supervisé
+  * apprentissage profond (deep learning)
+  * apprentissage supervisé et non supervisé
 
 #### Quelques personnages clés
 * [Charles Babbage](https://fr.wikipedia.org/wiki/Charles_Babbage) & [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace)
 * [Alan Turing](https://fr.wikipedia.org/wiki/Alan_Turing)
- * [Machine de Turing](http://morphett.info/turing/turing.html). 
-   * exemple : 54 (101011) + 43 (101011) = 97 ([1100001](http://coolconversion.com/math/binary-octal-hexa-decimal/How-to-Convert_binary__110110_in_decimal_%3F))
-   * [Le test de Turing](https://fr.wikipedia.org/wiki/Test_de_Turing) est une proposition de test d’intelligence artificielle fondée sur la faculté d'une machine à imiter la conversation humaine.
+  * [Machine de Turing](http://morphett.info/turing/turing.html). 
+    * exemple : 54 (101011) + 43 (101011) = 97 ([1100001](http://coolconversion.com/math/binary-octal-hexa-decimal/How-to-Convert_binary__110110_in_decimal_%3F))
+    * [Le test de Turing](https://fr.wikipedia.org/wiki/Test_de_Turing) est une proposition de test d’intelligence artificielle fondée sur la faculté d'une machine à imiter la conversation humaine.
 * Frank Rosenblatt
   * [Perceptron](https://fr.wikipedia.org/wiki/Perceptron)
 * [Marvin Minsky](https://fr.wikipedia.org/wiki/Marvin_Minsky)
@@ -184,7 +184,7 @@ Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conferen
 * [Le deep learning — Science étonnante #27](https://www.youtube.com/watch?v=trWrEWfhTVg)
 * [But what *is* a Neural Network? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
 
-### Algorithmes
+### Algorithmes / librairies
 * [P5ML.js](https://itpnyu.github.io/p5-deeplearn-js/docs/getting-started.html)
   * LTSM : Long Short Term Memory networks
   * KNN : K-nearest neighbors
@@ -199,10 +199,37 @@ Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conferen
 ### Hardware
 * [AIY Vision Kit](https://blog.google/topics/machine-learning/introducing-aiy-vision-kit-make-devices-see/)
 
-### Artistes
-* [Mario Kinglemann aka Quasimondo](https://www.instagram.com/p/BbW1Xevjcye/?taken-by=quasimondo)
-* [Kyle MacDonald](http://www.kylemcdonald.net/) 
-  * [Neural talk and walk](https://vimeo.com/146492001)
+### Sujet pour le S2
+À l'aide d'algorithmes de détection de contenu sur des images (ou des flux vidéos), vous imaginez et réalisez un service innovant intégrant cette technologie. Celui-ci pourra être indépendant du travail sur la fiction du S1. Le principe sera le suivant : 
+   1. Choix d'un flux d'images : caméras de surveillance, base de données d'images en ligne (Google images ou autres), flux vidéo d'une caméra, ... 
+   2. Détection de caractéristiques sur ces images (objets, couleurs, NSFW, émotions sur un visage par exemple) utilisant un modèle particulier. À voir si les algorithmes que nous utilisons peuvent être entrainés avec nos propres donnés, ce qui serait bien ! 
+   3. Traitement et interprétation de l'information recueillie, ne pas se contenter d'afficher simplement les informations de l'étape 2.  
+
+* **à produire** : 
+   * une application / installation intégrant un service de reconnaissance d'images. 
+   * une vidéo courte (~1mn30) mettant en scène ce service. 
+   * le tout pour le 9 avril. 
+
+ * **L'évaluation** se portera sur : 
+   * *l'originalité* et la pertinence de la proposition.
+   * *la qualité technique* de l'application. 
+
+Le projet peut se faire par groupe, idéalement bien sur les groupes qui se sont constitués pour le projet design fiction mais ce n'est pas obligatoire. 
+
+Voici les applications / services que nous pourrons utiliser et que nous avons survolés hier : 
+* [Clarifai](https://clarifai.com/) : je vous invite à créer un compte (gratuit) sur la plateforme et à bien étudier [les possibilités](https://www.clarifai.com/demo) qu'offrent [leurs modèles d'IA](https://www.clarifai.com/models).
+* [Teachable machines](https://teachablemachine.withgoogle.com/) : testé hier avec un groupe, ça marche plutôt bien pour associer image <=> fonction. La bonne nouvelle est que nous pouvons « extraire » le principe de fonctionnement pour l'embarquer dans notre propre application (voir [ce lien](https://github.com/googlecreativelab/teachable-machine-boilerplate)), il existe même [un template avec p5.js](https://github.com/ITPNYU/p5-deeplearn-js/tree/master/demos/teachableMachine). Je me demande s'il est possible d'associer plus de trois « catégories » en entrée, à voir, ce serait dommage sinon ... 
+* [ofxDarknet](https://github.com/mrzl/ofxDarknet) ou [node-yolo](https://github.com/moovel/node-yolo) ce sont les mêmes algorithmes qui permettent de détecter des objets et de placer une boite autour (*bounding box*). 
+* [ofxLearn](http://genekogan.com/works/ofxLearn/) / general-purpose machine learning for Openframeworks.
+* Détection sourire : 
+  * [SmileCNN](https://github.com/kylemcdonald/SmileCNN) 
+  * [Google Mobile Vision](https://developers.google.com/vision/face-detection-concepts) 
+  * [Giant Emoji](https://github.com/googlecreativelab/giantemoji) qui intégre [ofxFaceTracker2](https://github.com/HalfdanJ/ofxFaceTracker2)
+* Détection « pose » (squelettes) sur une photo / vidéo : 
+    * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+
+
 
 
 
