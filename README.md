@@ -201,14 +201,14 @@ Voir les notes de la conférence à Stereolux : https://github.com/v3ga/Conferen
 
 ### Sujet pour le S2
 À l'aide d'algorithmes de détection de contenu sur des images (ou des flux vidéos), vous imaginez et réalisez un service innovant intégrant cette technologie. Celui-ci pourra être indépendant du travail sur la fiction du S1. Le principe sera le suivant : 
-   1. Choix d'un flux d'images : caméras de surveillance, base de données d'images en ligne (Google images ou autres), flux vidéo d'une caméra, ... 
-   2. Détection de caractéristiques sur ces images (objets, couleurs, NSFW, émotions sur un visage par exemple) utilisant un modèle particulier. À voir si les algorithmes que nous utilisons peuvent être entrainés avec nos propres donnés, ce qui serait bien ! 
-   3. Traitement et interprétation de l'information recueillie, ne pas se contenter d'afficher simplement les informations de l'étape 2.  
+*  Choix d'un flux d'images : caméras de surveillance, base de données d'images en ligne (Google images ou autres), flux vidéo d'une caméra, ... 
+* Détection de caractéristiques sur ces images (objets, couleurs, NSFW, émotions sur un visage par exemple) utilisant un modèle particulier. À voir si les algorithmes que nous utilisons peuvent être entrainés avec nos propres donnés, ce qui serait bien ! 
+* Traitement et interprétation de l'information recueillie, ne pas se contenter d'afficher simplement les informations de l'étape 2.  
 
 * **à produire** : 
-   * une application / installation intégrant un service de reconnaissance d'images. 
-   * une vidéo courte (~1mn30) mettant en scène ce service. 
-   * le tout pour le 9 avril. 
+  * une application / installation intégrant un service de reconnaissance d'images. 
+  * une vidéo courte (~1mn30) mettant en scène ce service. 
+  * le tout pour le 9 avril. 
 
  * **L'évaluation** se portera sur : 
    * *l'originalité* et la pertinence de la proposition.
