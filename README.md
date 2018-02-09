@@ -235,12 +235,12 @@ Voici quelques notes prises par rapport aux projets ébauchés avec quelques pis
 ### Smile to me
 * Projet lié au travail de scénographie avec Claire Azema. 
 * Détection d'une personne et tracking avec un oeil (« logo ») à la manière de l'installation [Surface Tension](https://vimeo.com/43975363) de Rafaël Lozano-Hemmer.
-  * utilisation d'une kinect pour tracker le mouvement d'une personne (application prête à l'emploi [KinectOSC](https://github.com/genekogan/KinectOSC)) et application Processing / p5.js pour faire le rendu de l'œil.
+  * utilisation d'une kinect pour tracker le mouvement d'une personne (application prête à l'emploi [KinectOSC](https://github.com/genekogan/KinectOSC)) et application Processing / p5.js pour faire le rendu de l'œil.
 
 ### Inu
 * Projet de site web « goodies » lié à l'univers Inu.
 * Utilisation de la technique de « style transfer » pour générer des images à télécharger (fonds d'écran pour pc / mobiles)
-  * Voir ce lien : https://itpnyu.github.io/ml5/docs/transform-net-example.html , ce script pourrait être intégré à votre site plutôt que de passer par un service externe.
+  * Voir ce lien : https://itpnyu.github.io/ml5/docs/transform-net-example.html , ce script pourrait être intégré à votre site plutôt que de passer par un service externe.
 
 ### « Capitaine de soirée »
 * Installation qui permet d'évaluer si une personne est apte à conduire à fonction des traits de son visage.
