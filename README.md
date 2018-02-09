@@ -229,6 +229,32 @@ Voici les applications / services que nous pourrons utiliser et que nous avons s
     * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
+## Mardi 6 février 2018
+Voici quelques notes prises par rapport aux projets ébauchés avec quelques pistes technologiques pour les réaliser. Je vous demande pour la fin de la semaine prochaine (vendredi 16 février) de rédiger une note d'intention avec un scénario pour votre application ainsi que pour la vidéo. 
+
+### Smile to me
+* Projet lié au travail de scénographie avec Claire Azema. 
+* Détection d'une personne et tracking avec un oeil (« logo ») à la manière de l'installation [Surface Tension](https://vimeo.com/43975363) de Rafaël Lozano-Hemmer.
+  * utilisation d'une kinect pour tracker le mouvement d'une personne (application prête à l'emploi [KinectOSC](https://github.com/genekogan/KinectOSC)) et application Processing / p5.js pour faire le rendu de l'œil.
+
+### Inu
+* Projet de site web « goodies » lié à l'univers Inu.
+* Utilisation de la technique de « style transfer » pour générer des images à télécharger (fonds d'écran pour pc / mobiles)
+  * Voir ce lien : https://itpnyu.github.io/ml5/docs/transform-net-example.html , ce script pourrait être intégré à votre site plutôt que de passer par un service externe.
+
+### « Capitaine de soirée »
+* Installation qui permet d'évaluer si une personne est apte à conduire à fonction des traits de son visage.
+* Fabrication / entrainement d'un modèle :
+  * Voir ce lien : http://ml4a.github.io/guides/ConvnetOSC/
+
+### Ellipsis
+* Détection de visages avec déclenchement d'une interface pour afficher des informations en fonction de la personne reconnue. 
+* Entrainement d'un modèle pour détecter plusieurs visages. 
+* Voir [Programme administratif personnalisé d’accueil (PAPA)](http://strabic.fr/Le-design-graphique-pour-les-machines)
+
+### « Panneau publicitaire adaptatif »
+* Des panneaux qui modulent l'apparence d'un message publicitaire en fonction des caractéristiques d'une personne (age, sexe, etc...)
+* Utilisation du modèle [« Demographics » de Clarifai](https://www.clarifai.com/models/demographics-image-recognition-model/c0c0ac362b03416da06ab3fa36fb58e3)
 
 
 
