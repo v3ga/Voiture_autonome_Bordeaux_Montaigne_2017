@@ -246,6 +246,7 @@ Voici quelques notes prises par rapport aux projets ébauchés avec quelques pis
 * Installation qui permet d'évaluer si une personne est apte à conduire à fonction des traits de son visage.
 * Fabrication / entrainement d'un modèle :
   * Voir ce lien : http://ml4a.github.io/guides/ConvnetOSC/
+  * [Train your facial expressions using machine learning - FaceOSC, Processing & Wekinator](https://vimeo.com/175947130)
 
 ### Ellipsis
 * Détection de visages avec déclenchement d'une interface pour afficher des informations en fonction de la personne reconnue. 
